@@ -4,7 +4,7 @@ A simple web application that lets users search for Pokémon by name or ID. This
 
 ## Demo
 
-![Pokédex Demo Screenshot](demo.png) *(Replace with an actual screenshot of your app)*
+![Pokédex Demo Screenshot](demo.png)
 
 ## Features
 
